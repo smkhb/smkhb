@@ -1,7 +1,7 @@
 
 # Opa tudo certo? 👋
 
-Me chamo Samuel Bernardo e sou um desenvolvedor web que está programando desde de 2022, focado principalmente no ecosistema de Javascript, tendo experiência com React.js e Node.Js.
+Me chamo Samuel Bernardo, sou um desenvolvedor web que está programando desde de 2022, focado principalmente no ecosistema de Javascript, tendo experiência com React.js e Node.Js.
 
 - 🧑‍💻 Atualmente estou utilizando Node.js para construir aplicações Back-End
 
