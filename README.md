@@ -19,9 +19,9 @@ Me chamo Samuel Bernardo, sou um desenvolvedor web que está programando desde d
     <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,nextjs,astro,wordpress,postgres,vscode,git,postman,linux,python,docker,express,nest,npm,prisma,redux,tailwind,vitest,vite,xd,figma&perline=8"/>
   </a>
 
-## 🔥 &nbsp;Meus Commits:
+## 🔥 &nbsp;Commits:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=smkhb&theme=tokyonight&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=smkhb&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 &nbsp;
 
 
