@@ -22,7 +22,9 @@ Me chamo Samuel Bernardo, sou um desenvolvedor web que está programando desde d
 ## 🔥 &nbsp;Commits:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=smkhb&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-&nbsp;
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smkhb&layout=compact&theme=tokyonight&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 👍 &nbsp;É Isso : 
