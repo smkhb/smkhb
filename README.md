@@ -1,4 +1,4 @@
-# Opa tudo certo?&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+# Opa! E ai tudo certo?&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 <div>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2phODFiYnluZHl4eHd1a2pnYzF0a2NtZ2M0ams0Mm9pMG9zam41NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HdbUSCP8Avvi2fgv4F/giphy.gif" width="400">
 </div>
@@ -21,4 +21,12 @@ Me chamo Samuel Bernardo, sou um desenvolvedor web que está programando desde d
 
 ## 🔥 &nbsp;Meus Commits:
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxrZXNxN2tpb3c1d2lmNXFmYmFicnA5a2ZxeWRkN3k5OHUxN3J2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vhYfblEzqzdMd2dYV6/giphy.gif" width="200">[![GitHub Streak](https://streak-stats.demolab.com?user=smkhb&theme=tokyonight&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=smkhb&theme=tokyonight&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+&nbsp;
+
+
+## 👍 &nbsp;É Isso : 
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxrZXNxN2tpb3c1d2lmNXFmYmFicnA5a2ZxeWRkN3k5OHUxN3J2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vhYfblEzqzdMd2dYV6/giphy.gif" width="200">
+
+[![Static Badge](https://img.shields.io/badge/Samuel_Bernardo-gray?style=flat&label=LinkedIn&labelColor=blue)](https://www.linkedin.com/in/samuelbernardo/)
