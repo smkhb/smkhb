@@ -11,6 +11,8 @@ Me chamo Samuel Bernardo, sou um desenvolvedor web que está programando desde d
 - 🌱 &nbsp; Venho estudando Design Patterns, Docker e Back-End.
 - ⚡ &nbsp; Estou tentando já faz um tempo a começar escrever artigos de tecnologia.
 - 👨‍🎓 &nbsp; Esse ano me formo em Analise e Desenvolvimento de Sistemas
+
+[![Static Badge](https://img.shields.io/badge/Samuel_Bernardo-gray?style=flat&label=LinkedIn&labelColor=blue)](https://www.linkedin.com/in/samuelbernardo/)
  
  
 ## 🛠 &nbsp;Linguagens & Ferramentas:
@@ -25,5 +27,5 @@ Me chamo Samuel Bernardo, sou um desenvolvedor web que está programando desde d
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxrZXNxN2tpb3c1d2lmNXFmYmFicnA5a2ZxeWRkN3k5OHUxN3J2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vhYfblEzqzdMd2dYV6/giphy.gif" width="200">
 
-[![Static Badge](https://img.shields.io/badge/Samuel_Bernardo-gray?style=flat&label=LinkedIn&labelColor=blue)](https://www.linkedin.com/in/samuelbernardo/)
+
 
