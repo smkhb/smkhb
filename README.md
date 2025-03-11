@@ -16,19 +16,14 @@ Me chamo Samuel Bernardo, sou um desenvolvedor web que está programando desde d
 ## 🛠 &nbsp;Linguagens & Ferramentas:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,nextjs,astro,wordpress,postgres,vscode,git,postman,linux,python,docker,express,nest,npm,prisma,redux,tailwind,vitest,vite,xd,figma&perline=8"/>
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,nextjs,wordpress,postgres,vscode,git,postman,python,docker,express,prisma,tailwind,vitest,vite,figma&perline=9"/>
   </a>
 
 ## 🔥 &nbsp;Commits:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=smkhb&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smkhb&layout=compact&theme=tokyonight&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## 👍 &nbsp;É Isso : 
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxrZXNxN2tpb3c1d2lmNXFmYmFicnA5a2ZxeWRkN3k5OHUxN3J2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vhYfblEzqzdMd2dYV6/giphy.gif" width="200">
 
 [![Static Badge](https://img.shields.io/badge/Samuel_Bernardo-gray?style=flat&label=LinkedIn&labelColor=blue)](https://www.linkedin.com/in/samuelbernardo/)
+
