@@ -9,7 +9,9 @@ Me chamo Samuel Bernardo, sou um desenvolvedor web que está programando desde d
 - 👨‍🎓 &nbsp; Faço Faculdade de Analise e Desenvolvimento de Sistemas
  
 ## 🛠 &nbsp;Linguagens & Ferramentas:
-
-  <a href="https://skillicons.dev">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smkhb&layout=compact&theme=tokyonight&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+  
+ <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,nextjs,nest,wordpress,postgres,vscode,git,postman,python,docker,express,prisma,tailwind,vitest,vite,&perline=9"/>
-  </a>
+ </a>
+
