@@ -4,9 +4,7 @@
 
 ## 👨‍💻 &nbsp;Sobre Mim :
 
-Me chamo Samuel Bernardo, sou um desenvolvedor web que está programando desde de 2022, focado principalmente no ecosistema Javascript
-- 🤠 &nbsp; Sou um Dev de Florianópolis.
-- 👨‍🎓 &nbsp; Faço Faculdade de Analise e Desenvolvimento de Sistemas
+Me chamo Samuel Bernardo, sou um desenvolvedor web que está programando desde de 2022, focado principalmente no ecosistema Javascript. Moro em Florianópolis e estou terminando uma faculdade de Análise e Desenvolvimento de Sistemas
  
 ## 🛠 &nbsp;Linguagens & Ferramentas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smkhb&layout=compact&theme=tokyonight&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
