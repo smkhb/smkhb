@@ -7,7 +7,6 @@
 Me chamo Samuel Bernardo, sou um desenvolvedor web que está programando desde de 2022, focado principalmente no ecosistema Javascript. Moro em Florianópolis e estou terminando uma faculdade de Análise e Desenvolvimento de Sistemas
  
 ## 🛠 &nbsp;Linguagens & Ferramentas:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smkhb&layout=compact&theme=tokyonight&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
   
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,nextjs,nest,wordpress,postgres,vscode,git,postman,python,docker,express,prisma,tailwind,vitest,vite,&perline=9"/>
